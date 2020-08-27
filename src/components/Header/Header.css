@@ -1,0 +1,26 @@
+.header img{
+    height: 100px;
+    
+}
+.header h1{
+   color: rgb(255, 0, 255);
+   margin-top: 30px;
+}
+.header{
+    margin-top: 40px;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+.header nav{
+    background-color: aqua;
+    margin-top:20px;
+    line-height: 40px;
+    font-size: 25px;
+}
+nav a{
+    text-decoration: none;
+    color: darkslategrey;
+    margin-right: 20px;
+    padding: 5px;
+}
