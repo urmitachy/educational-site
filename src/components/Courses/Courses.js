@@ -27,7 +27,8 @@ const Courses = () => {
                             cart.map(item => <Cart key={item.id * Math.random()} item={item} />)
                         }
                     </ul>
-                    Checkout <span className="badge badge-light">$ {totalPrice}</span>
+                   <h6> Checkout <span className="badge badge-light">$ {totalPrice}</span></h6>
+            
                    
                 </div>
                 <div className="col-md-9 row border-left course-item">
